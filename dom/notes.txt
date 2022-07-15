@@ -1,0 +1,3 @@
+dom stands for document object model
+Vanilla JavaScript has replaced JQuery has most the feature are available in native JavaScript
+JavaScript can be used to read/write/manupilate to the dom
